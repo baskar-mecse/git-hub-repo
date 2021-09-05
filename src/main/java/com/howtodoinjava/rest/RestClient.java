@@ -16,5 +16,8 @@ public class RestClient {
 	private void testGitHub2(){
 		
 	}
+	private void testGitHub1(){
+		
+	}
 
 }
