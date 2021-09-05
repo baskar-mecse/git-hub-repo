@@ -12,5 +12,9 @@ public class RestClient {
 	     
 	    System.out.println(result);
 	}
+	
+	private void testGitHub2(){
+		
+	}
 
 }
